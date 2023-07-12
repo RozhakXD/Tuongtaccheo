@@ -66,7 +66,7 @@ There are several factors that influence the Follow or Likes mission to fail, th
 - You didn't open a public followed list.
 
 ### Facebook account requirements for Configuration?
-There are several requirements for a Facebook account that you want to add to the Tuongtaccheo configuration. If you meet the requirements but still can't be added to the configuration, it's possible that the Facebook account was created too recently or the Tuongtaccheo website is having problems.
+There are several conditions that must be met to add an account to the Tuongtaccheo account configuration, among others. If you still can't add it, maybe the Tuongtaccheo website has an error.
 
 **Requirement :**
 - Having a name on the account is only Vietnamese, for example : **Nguyễn Văn** || *For the actual name does not really affect the configuration.*
