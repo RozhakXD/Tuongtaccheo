@@ -20,7 +20,7 @@
 [**Tuongtaccheo**](https://github.com/RozhakXDTuongtaccheo/) is a tool to get followers on your facebook account for free, before that you have to do a like or follow mission. This tool uses a system of exchanging followers among users.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://www.youtube.com/c/rozhakid). Then you enter some basic commands below!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://youtu.be/wi2npWgfGlk). Then you enter some basic commands below!
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
