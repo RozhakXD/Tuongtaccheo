@@ -73,7 +73,7 @@ $ python Run.py
 ### Why do coins disappear?
 - Because you stopped following their account so it was detected as cheating.
 - Your account has been deactivated by Facebook.
-- Your account returns to private mode so it is not visible to the public.
+- Your account returns to private mode or is locked so it is not visible to the public.
 
 ### When will the purchase be received?
 Followers and Likes will arrive in your account within 24 hours. If it's been more than 24 hours, maybe this service doesn't have users to make an exchange.
