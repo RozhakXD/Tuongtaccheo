@@ -17,7 +17,7 @@
 ##
 
 ### What is Tuongtaccheo?
-[**Tuongtaccheo**](https://github.com/RozhakXD/Tuongtaccheo) is a tool to get followers on your facebook account for free, before that you have to do a like or follow mission. This tool uses a system of exchanging followers among users.
+[**Tuongtaccheo**](https://github.com/RozhakXD/Tuongtaccheo) is a tools created to make it easier for you to get coins on Tuongtaccheo, you can exchange these coins for followers or likes.
 
 ### Termux command?
 First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://www.youtube.com/rozhakid). Then you enter some basic commands below!
@@ -75,6 +75,6 @@ Followers and Likes will arrive in your account within 24 hours. If it's been mo
 
 ##
 ```python
-print("Good luck hope it works!")
+print("Thank You!")
 ```
 ##
