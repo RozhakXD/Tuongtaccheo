@@ -42,9 +42,9 @@ $ python Run.py
 - You must be willing if your Facebook account is used to exchange likes and follows.
 
 ### Why login failed?
-- Maybe your Facebook account has been deactivated or hit by a checkpoint.
-- Because you entered the wrong Tuongtaccheo account cookies or Facebook account cookies.
 - Maybe the Tuongtaccheo service is undergoing an update or cloudflare.
+- Because you entered the wrong Tuongtaccheo account cookies or Facebook account cookies.
+- Maybe your Facebook account has been deactivated or hit by a checkpoint.
 
 ### Mission fails?
 - Because the account you follow is not available so you don't get coins.
