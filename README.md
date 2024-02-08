@@ -68,7 +68,7 @@ $ python Run.py
 ### Is your Facebook blocked?
 - Your Facebook account must be online in the browser where you get cookies and refresh once every 1 minute.
 - Use a delay of more than 60 seconds to be safer.
-- Take a break for a few hours to avoid spam on your account.
+- You have to stop for 1 hour before doing the mission again.
 
 ### When will the purchase be received?
 Followers and Likes will arrive in your account within 24 hours, this may take more than 24 hours if the tuongtaccheo service does not have many users. This is all influenced by whether or not many users use the service.
