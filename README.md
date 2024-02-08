@@ -38,7 +38,7 @@ $ python Run.py
 ### How to keep Facebook safe?
 - Your Facebook account must use a telephone number, email and 2-factor authentication.
 - Change the password after every use of the tools.
-- You have to use an unused Facebook account or a fake Facebook account.
+- You are required to use a fake account to log into the tools.
 - You must be willing if your Facebook account is used to exchange likes and follows.
 
 ### Why login failed?
