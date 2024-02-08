@@ -71,7 +71,7 @@ $ python Run.py
 - You have to stop for 1 hour before doing the mission again.
 
 ### When will the purchase be received?
-Followers and Likes will arrive in your account within 24 hours, this may take more than 24 hours if the tuongtaccheo service does not have many users. This is all influenced by whether or not many users use the service.
+Followers and Likes will arrive in your account within 24 hours. If it's been more than 24 hours, maybe this service doesn't have users to make an exchange.
 
 ##
 ```python
