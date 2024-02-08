@@ -20,7 +20,7 @@
 [**Tuongtaccheo**](https://github.com/RozhakXD/Tuongtaccheo) is a tool to get followers on your facebook account for free, before that you have to do a like or follow mission. This tool uses a system of exchanging followers among users.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://drive.google.com/file/d/1Mpq8E5_1ZDvldLcQV8saz3XO9UY-6RzO/view?usp=sharing). Then you enter some basic commands below!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://www.youtube.com/rozhakid). Then you enter some basic commands below!
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
@@ -35,63 +35,43 @@ $ cd "$HOME/Tuongtaccheo" && git pul
 $ python Run.py
 ```
 
-### Overcoming blocked accounts?
-There are many causes for your Facebook account to be blocked or deactivated by Facebook, you should use a delay of more than 60 seconds. If it still doesn't work, here's how to make your Facebook account last longer.
+### How to keep Facebook safe?
+- Facebook accounts must use 2-factor authentication, complete with a phone number and email.
+- Change the password after every use of the tools.
+- You have to use an unused Facebook account or a fake Facebook account.
+- You must agree if your account is used to follow and like each other.
 
-**Solution :**
-- The account is in an Online state in the Browser to get Cookies.
-- Do not use the newly created Facebook account.
-- Using a delay above 70 seconds.
-- Refresh Facebook account in few minutes.
-- Use 2-factor authentication.
-- Account complete with phone number and email.
+### Why login failed?
+- Maybe your Facebook account has been deactivated or hit by a checkpoint.
+- Because you entered the wrong Tuongtaccheo account cookies or Facebook account cookies.
+- Maybe the Tuongtaccheo service is undergoing an update or cloudflare.
 
-### When will all followers arrive?
-Followers will arrive at your Facebook account within 24 hours of purchase on Tuongtaccheo, if they don't arrive within 24 hours, your Facebook account may not meet the requirements below are Facebook account requirements.
+### Mission fails?
+- Because the account you follow is not available so you don't get coins.
+- Maybe your Facebook account was blocked for 24 hours or more.
+- Error from the Tuongtaccheo service so it doesn't show your coins.
+- There are no missions that you can complete without getting coins.
 
-**Reason :**
-- There is an Add Friend button so that is problematic.
-- Your Facebook account is unavailable.
-- You entered the wrong Facebook account profile id.
-- Your account does not have a follow button.
+### Configuration requirements?
+- Facebook accounts must have a profile photo and 5 posts that are visible to the public.
+- Facebook account must be 19 years or older, you can change the date of birth.
+- Facebook accounts must have 20 or 50 more friends.
+- Facebook accounts must join at least 1 group and must be active within 7 days.
+- When you use a new account, complete the requirements and wait 2 weeks before it can be added to the configuration.
 
-### Why do all the missions fail?
-There are several factors that influence the Follow or Likes mission to fail, these factors include.
+### Failed to exchange?
+- Since your Facebook account doesn't have a follow button, make sure it only has a follow button.
+- Maybe you entered the wrong post link or Facebook account userid.
+- Maybe your Facebook account is locked or is in private mode.
+- Because your Facebook post doesn't have a like button or is not a public post.
 
-**Factor :**
-- Maybe your Facebook account hit Checkpoint.
-- Missions on the Tuongtaccheo account that are not available because the user is unavailable.
-- Your Facebook account is deactivated.
-- The Facebook cookie has expired or the account has been logged out.
-- You didn't open a public followed list.
+### Is your Facebook blocked?
+- Your Facebook account must be online in the browser where you get cookies and refresh once every 1 minute.
+- Use a delay of more than 60 seconds to be safer.
+- Take a break for a few hours to avoid spam on your account.
 
-### Facebook account requirements for Configuration?
-There are several conditions that must be met to add an account to the Tuongtaccheo account configuration, among others. If you still can't add it, maybe the Tuongtaccheo website has an error.
-
-**Requirement :**
-- Having a name on the account is only Vietnamese, for example : **Nguyễn Văn** || *For the actual name does not really affect the configuration.*
-- Facebook account in a public state is not locked.
-- Account is 18 years or older and has public mode turned on.
-- Account has at least 50 friends.
-- If it's a new account, you have to wait 7-30 days before it can be added to the configuration.
-- Have a profile photo and at least 5 posts.
-
-### When will likes come in posts?
-Likes will enter Facebook posts after exchange with a gradual process that will not enter all at once. If the likes don't go in at all, maybe it's pending on the website or the Facebook post isn't public or doesn't have a like button.
-
-### Cause there's no mission?
-It's possible that the Tuongtaccheo website is having problems or there are several factors that affect the no mission, among others.
-
-**Problems :**
-- Your Facebook account has done the missions available on the Tuongtaccheo account.
-- The number of users on the Tuongtaccheo website is still small.
-- The delay that you used is too spam that makes Tuongtaccheo's account exposed to Spam.
-
-**Solution :**
-- You can do the mission again the next day or change the Facebook account configuration.
-- Doing missions during active hours 7-12 at night.
-
-If it still doesn't work, try changing your Tuongtaccheo account or your Facebook account.
+### When will the purchase be received?
+Followers and Likes will arrive in your account within 24 hours, this may take more than 24 hours if the tuongtaccheo service does not have many users. This is all influenced by whether or not many users use the service.
 
 ##
 ```python
