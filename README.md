@@ -60,7 +60,7 @@ $ python Run.py
 - When you use a new account, complete the requirements and wait 2 weeks before it can be added to the configuration.
 
 ### Failed to exchange?
-- Since your Facebook account doesn't have a follow button, make sure it only has a follow button.
+- Because your account doesn't have a follow button and there is an add friend button.
 - Maybe you entered the wrong post link or Facebook account userid.
 - Maybe your Facebook account is locked or is in private mode.
 - Because your Facebook post doesn't have a like button or is not a public post.
