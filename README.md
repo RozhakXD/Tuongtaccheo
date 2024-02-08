@@ -43,14 +43,14 @@ $ python Run.py
 
 ### Why login failed?
 - Maybe the Tuongtaccheo service is undergoing an update or cloudflare.
-- Because you entered the wrong Tuongtaccheo account cookies or Facebook account cookies.
 - Maybe your Facebook account has been deactivated or hit by a checkpoint.
+- Because you entered the wrong Tuongtaccheo account cookies or Facebook account cookies.
 - Your Facebook account has not been added to the Tuongtaccheo configuration.
 
 ### Mission fails?
+- Error from the Tuongtaccheo service so it doesn't show your coins.
 - Because the account you follow is not available so you don't get coins.
 - Maybe your Facebook account was blocked for 24 hours or more.
-- Error from the Tuongtaccheo service so it doesn't show your coins.
 - There are no missions that you can complete without getting coins.
 
 ### Configuration requirements?
