@@ -54,10 +54,10 @@ $ python Run.py
 - There are no missions that you can complete without getting coins.
 
 ### Configuration requirements?
-- Facebook account must be 19 years or older, you can change the date of birth.
 - Your Facebook account must have a minimum of 50 friends and these friends must be visible to the public.
 - Facebook accounts must have a profile photo and 5 posts that are visible to the public.
 - Facebook accounts must join at least 1 group and must be active within 7 days.
+- Facebook account must be 19 years or older, you can change the date of birth.
 - When you use a new account, complete the requirements and wait 2 weeks before it can be added to the configuration.
 
 ### Failed to exchange?
