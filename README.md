@@ -70,6 +70,11 @@ $ python Run.py
 - Use a delay of more than 60 seconds to be safer.
 - You have to stop for 1 hour before doing the mission again.
 
+### Why do coins disappear?
+- Because you stopped following their account so it was detected as cheating.
+- Your account has been deactivated by Facebook.
+- Your account returns to private mode so it is not visible to the public.
+
 ### When will the purchase be received?
 Followers and Likes will arrive in your account within 24 hours. If it's been more than 24 hours, maybe this service doesn't have users to make an exchange.
 
