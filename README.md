@@ -43,9 +43,9 @@ python Run.py
 
 ## 📝 Important Notes
 - **🛑 Account Requirements**: Your Facebook account must meet these criteria to run missions smoothly.
+    - **Public Posts**: The account must have at least 5 public posts, including photos and wall posts.
     - **Vietnamese Name**: Use a Vietnamese name for your account.
     - **Complete Profile**: Ensure your profile has a cover photo and is representative with complete information.
-    - **Public Posts**: The account must have at least 5 public posts, including photos and wall posts.
     - **Account Age**: The account must be active for more than 3 days.
 - **⚠️ Use Responsibly**: Facebook may restrict accounts engaging in unusual activity. Set a minimum delay of 60 seconds for safety.
 - **🔄 Regularly Update Cookies**: Facebook cookies expire over time. Ensure to update them if errors occur.
