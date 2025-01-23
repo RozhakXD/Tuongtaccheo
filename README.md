@@ -1,7 +1,7 @@
 # 🌟 TangFollows - Your Ultimate Facebook Growth Companion 🚀
 ![TangFollows Logo](https://github.com/user-attachments/assets/3e207b68-d010-465e-81cb-79fac757ddb2)
 
-🔍 **TangFollows** is an advanced automation tool designed to safely and efficiently increase your Facebook followers. Integrated with [Tuongtaccheo](https://tuongtaccheo.com), this tool simplifies running follow/like missions, exchanging coins, and managing your account with ease!
+🔍 TangFollows is a powerful automation tool tailored to safely and efficiently grow your Facebook followers. By integrating seamlessly with [Tuongtaccheo](https://tuongtaccheo.com/), it streamlines follow and like missions, facilitates coin exchanges, and provides effortless account management—all in one place!
 
 ## ✨ Key Features
 - **💎 Coin-to-Followers Conversion**: Turn your earned coins into real followers or likes for any target account or post. Grow your presence without hassle.
@@ -42,7 +42,7 @@ python Run.py
     - View real-time success/failure statistics!
 
 ## 📝 Important Notes
-- **🛑 Account Requirements for Running Missions**: To ensure smooth mission execution, your Facebook account must meet the following criteria:
+- **🛑 Account Requirements**: Your Facebook account must meet these criteria to run missions smoothly.
     - **Vietnamese Name**: Use a Vietnamese name for your account.
     - **Complete Profile**: Ensure your profile has a cover photo and is representative with complete information.
     - **Public Posts**: The account must have at least 5 public posts, including photos and wall posts.
